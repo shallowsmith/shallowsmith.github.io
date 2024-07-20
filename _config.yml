@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "James' Portfolio"
+title                    : "Ji Hong (James) Kim"
 title_separator          : "-"
 name                     : &name "Ji Hong Kim"
 description              : &description "Software Engineering @ SJSU"
@@ -22,7 +22,7 @@ repository               : "shallowsmith.github.io"
 author:
   # Biographic information
   avatar           : "profile_pic.jpg"
-  name             : "Ji Hong Kim"
+  name             : # "Ji Hong Kim"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineering @ SJSU"
   location         : "San Francisco Bay Area"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : james---kim
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
