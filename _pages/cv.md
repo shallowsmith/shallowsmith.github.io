@@ -11,43 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Software Engineering, San Jose State University (2025)
+* A.S-T in Computer Science, De Anza College (2022)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Software Engineering Fellow - Headstarter AI
+  * July 2024 - Present
+  * San Francisco, California (Remote)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Technical Interview Prep, TIP 102 - CodePath
+  * June 2024 - Present
+  * San Francisco, California (Remote)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Webmaster - Theta Tau, Omega Epsilon Chapter
+  * Jan 2024 - Present
+  * San Jose, California
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages**: Java, Python, C, C++, HTML, CSS, JavaScript, PHP, SQL
+* **Developer Tools:** Unix, Git, Ubuntu, Unity, XAMPP, Raspberry Pi
+* **Technologies / Frameworks:** React, Next.js, Firebase, Flask, MySQL, PostgreSQL, Docker
 
-Publications
+Projects
+======
+* [SpartanYap](https://github.com/shallowsmith/SpartanYap)
+  * Engineered SpartanYap, an online platform for 36,000+ SJSU students, leveraging a full-stack architecture with React, Flask, and PostgreSQL hosted on ElephantSQL, enhancing community engagement through anonymous communication.
+
+* [Community League Management System](https://github.com/shallowsmith/Community-League-Management)
+  * Developed a full-stack web application using React, PHP and MySQL for managing community baseball leagues, enhancing organizational efficiency and data accuracy.
+
+* [HydroSense](https://github.com/lac-phong/hydro_sense)
+  * Collaborated with 17 engineers from diverse disciplines in creating a device and full-stack web application for detecting soil moisture and temperature levels tailored for the SJSU community garden.
+
+<!-- Projects
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+   -->
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
